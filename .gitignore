@@ -1,0 +1,13 @@
+.env
+
+.langchainEnv/
+
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+JVineethaResume.pdf
+Computer_Networks_Complete_Not...
+machine_learning.pdf
+my_documents/
